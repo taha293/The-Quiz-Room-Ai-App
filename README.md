@@ -57,11 +57,5 @@ The Quiz Room AI App is an interactive quiz platform that leverages artificial i
 ## Deployment
 The application is deployed on Streamlit Cloud and can be accessed at: https://thequizroom.streamlit.app/
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-[Specify your license here]
-
 ## Contact
 For any inquiries, please contact the repository owner.
